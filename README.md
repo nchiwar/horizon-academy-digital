@@ -1,5 +1,8 @@
 New Horizon Academy Website
+
 Overview
+
+
 New Horizon Academy is a modern, full-stack web application for a premier primary and secondary school in Nigeria. Built with React (TypeScript) for a dynamic, responsive frontend and Django for a robust backend, this project delivers an engaging platform for prospective families, parents, and students. It features personalized learning tools, secure credential management, and immersive campus experiences, setting it apart from traditional school sites.
 The site supports seamless user interactions, from admissions inquiries to real-time grade tracking, while blending Nigerian cultural elements with international standards.
 Tech Stack
